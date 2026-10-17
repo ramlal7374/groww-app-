@@ -1,0 +1,6 @@
+{
+  "name": "Groww - Stock Trading & Investment Platform",
+  "description": "Modern Indian investing and trading platform inspired by Groww, featuring equities trading, live charts, mutual funds, IPOs, ETFs, and portfolio tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
